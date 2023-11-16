@@ -1,0 +1,19 @@
+.calculation {
+  display: flex;
+  gap: 20px;
+  margin: 30px;
+}
+.box {
+  width: 80px;
+  height: 25px;
+  border: 1px gray solid;
+  border-radius: 3px;
+  text-align: center;
+  color: grey;
+}
+.buttons {
+  margin-left: 70px;
+}
+button {
+  margin-right: 20px;
+}
